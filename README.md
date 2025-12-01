@@ -1,2 +1,2 @@
 # FlutterLMSCore
-Frontend LMSCore
+Frontend LMSCore 1.0
